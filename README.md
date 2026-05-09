@@ -154,7 +154,7 @@ Password: `123`
 ##  Demo Video
 
  **Watch our project demo here:**
-[Paste Your Video Link Here]
+https://youtu.be/8Njd_fCpVsM?si=2Sd0mwXQ55SH1r-x
 
 ### Video Includes:
 
